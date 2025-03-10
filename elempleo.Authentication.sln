@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35806.99 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elempleo.Authentication", "elempleo.Authentication\elempleo.Authentication.csproj", "{01FD70C0-BCA5-41B6-8F7C-5D38685DD83D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elempleo.Authentication.Model", "elempleo.Authentication.Model\elempleo.Authentication.Model.csproj", "{19C1B958-F6F9-4CBD-8BDE-58C440206256}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elempleo.Authentication.Repository", "elempleo.Authentication.Repository\elempleo.Authentication.Repository.csproj", "{F8080D0B-0DB8-4425-B754-230F116AE6BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elempleo.Authentication.Services", "elempleo.Authentication.Services\elempleo.Authentication.Services.csproj", "{CCF855BA-BEFD-4808-9ADA-5B1CD7F48D82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "elempleo.Authentication.BusinessServices", "elempleo.Authentication.BusinessServices\elempleo.Authentication.BusinessServices.csproj", "{AFCE8F92-4547-4E07-9C98-5821B327ECDA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01FD70C0-BCA5-41B6-8F7C-5D38685DD83D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01FD70C0-BCA5-41B6-8F7C-5D38685DD83D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01FD70C0-BCA5-41B6-8F7C-5D38685DD83D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01FD70C0-BCA5-41B6-8F7C-5D38685DD83D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{19C1B958-F6F9-4CBD-8BDE-58C440206256}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19C1B958-F6F9-4CBD-8BDE-58C440206256}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19C1B958-F6F9-4CBD-8BDE-58C440206256}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19C1B958-F6F9-4CBD-8BDE-58C440206256}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8080D0B-0DB8-4425-B754-230F116AE6BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8080D0B-0DB8-4425-B754-230F116AE6BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8080D0B-0DB8-4425-B754-230F116AE6BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8080D0B-0DB8-4425-B754-230F116AE6BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CCF855BA-BEFD-4808-9ADA-5B1CD7F48D82}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCF855BA-BEFD-4808-9ADA-5B1CD7F48D82}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCF855BA-BEFD-4808-9ADA-5B1CD7F48D82}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCF855BA-BEFD-4808-9ADA-5B1CD7F48D82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFCE8F92-4547-4E07-9C98-5821B327ECDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFCE8F92-4547-4E07-9C98-5821B327ECDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFCE8F92-4547-4E07-9C98-5821B327ECDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFCE8F92-4547-4E07-9C98-5821B327ECDA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E9DFC01-2187-4B24-B2C9-6FF2E7CA2986}
+	EndGlobalSection
+EndGlobal

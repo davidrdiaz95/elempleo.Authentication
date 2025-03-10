@@ -1,0 +1,6 @@
+@elempleo.Authentication_HostAddress = http://localhost:5198
+
+GET {{elempleo.Authentication_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
